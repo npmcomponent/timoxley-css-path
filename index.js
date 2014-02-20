@@ -1,4 +1,4 @@
-var indexOf = require('indexof')
+var indexOf = require('timoxley-indexof')
 
 module.exports = function cssPath(el) {
   return _cssPath(el).join(" > ").trim();

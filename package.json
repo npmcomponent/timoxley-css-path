@@ -1,0 +1,9 @@
+{
+  "name": "timoxley-css-path",
+  "description": "Get CSS path to a dom element.",
+  "version": "0.0.2",
+  "keywords": [],
+  "dependencies": {
+    "timoxley-indexof": "git://github.com/npmcomponent/timoxley-indexof.git"
+  }
+}
